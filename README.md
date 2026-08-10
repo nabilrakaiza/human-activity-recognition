@@ -2,10 +2,7 @@
 
 A CNN-LSTM model for 12-class human activity recognition from smartphone accelerometer/gyroscope
 data, comparing raw sensor sequences against hand-engineered features to see which representation
-actually drives performance.
-
-This repo hosts the full group project — logistic regression, kernel SVM, 1D-CNN, and CNN-LSTM
-baselines compared on the same task. It was built for **CS3244 Machine Learning (NUS)** by a 6-person
+actually drives performance. It was built for **CS3244 Machine Learning (NUS)** by a 6-person
 team; my personal contribution was the CNN-LSTM section, documented below.
 
 ## Group project — CS3244 Machine Learning, Group 32
